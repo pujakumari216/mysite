@@ -33,6 +33,14 @@ auto; width:600px; height: calc(100vh - 60px)"
       "passConfig": true,
       "environments": ["preview", "live", "edit"],
       "includePaths": ["**.docx**"]
+    },
+    "id": "library",
+      "title": "Block Library",
+      "url": "/tools/sidekick/library.html",
+      "environments": ["edit"],
+      "includePaths": ["**.docx**"]
+    {
+      
     }
   ]
 }
